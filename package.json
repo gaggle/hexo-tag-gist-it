@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-gist-it",
+  "version": "0.0.1",
+  "description": "Embed GitHub repo files for Hexo",
+  "main": "index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaggle/hexo-tag-gist-it.git"
+  },
+  "author": {
+    "name": "gaggle",
+    "url": "http://jonlauridsen.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "domurl": "^2.1.7"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
